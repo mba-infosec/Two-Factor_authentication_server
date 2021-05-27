@@ -1,5 +1,7 @@
 # Tutorials
 
+#via Naiame (Golomt Bank)
+
 ## Radius Server
 Radius нь **Remote Authentication Dial-In User Service** протокол юм. Энэхүү протокол нь Client (NAS /Network Access Server/) -ээс 1812 UDP портоор хүсэлтийг хүлээн авах бөгөөд хүсэлт нь Access-Request  төрлийн хүсэлт байна. Ирсэн Access-Request хүсэлтийг хүлээн авсах Radius server хүсэлтийг боловсруулж гурван төрлийн хариу буцаана. Үүнд
 - Access - Reject
