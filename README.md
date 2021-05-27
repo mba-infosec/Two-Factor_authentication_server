@@ -1,4 +1,4 @@
-# Tutorials
+# Нээлттэй эхийн шийдэл ашиглаж Two Factor Authentication тохируулах заавар
 
 #via Naiame (Golomt Bank)
 
