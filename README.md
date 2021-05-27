@@ -1,4 +1,4 @@
-# Нээлттэй эхийн шийдэл ашиглаж Two Factor Authentication тохируулах заавар
+# Нээлттэй эхийн шийдэл ашиглаж Two Factor Authentication сервер тохируулах заавар
 
 #via Naiame (Golomt Bank)
 
